@@ -6,7 +6,7 @@
 
 ```bash
 git clone https://github.com/theflexone/aston-interview-project.git
-cd aston-tech-interview-project
+cd aston-interview-project
 code .
 ```
 
