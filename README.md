@@ -5,7 +5,7 @@
 3. Open the project in [Visual Studio Code](https://code.visualstudio.com/) or your preferred text editor.
 
 ```bash
-git clone https://github.com/theflexone/aston-tech-interview-project.git
+git clone https://github.com/theflexone/aston-interview-project.git
 cd aston-tech-interview-project
 code .
 ```
