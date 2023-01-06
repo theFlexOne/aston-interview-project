@@ -4,7 +4,7 @@
 2. Download or clone this repository to your local machine.
 3. Open the project in [Visual Studio Code](https://code.visualstudio.com/) or your preferred text editor.
 
-```
+```bash
 git clone https://github.com/username/aston-tech-interview-project.git
 cd aston-tech-interview-project
 code .
@@ -12,14 +12,14 @@ code .
 
 4. In the terminal, navigate to the project directory and run `npm install` to install all the necessary dependencies.
 
-```
+```bash
 npm install
 ```
 
 5. Install the [LiveServer](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension for Visual Studio Code.
 6. In the terminal, run the command `npm run build` to build the project.
 
-```
+```bash
 npm run build
 ```
 
