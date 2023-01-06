@@ -5,7 +5,7 @@
 3. Open the project in [Visual Studio Code](https://code.visualstudio.com/) or your preferred text editor.
 
 ```bash
-git clone https://github.com/username/aston-tech-interview-project.git
+git clone https://github.com/theflexone/aston-tech-interview-project.git
 cd aston-tech-interview-project
 code .
 ```
@@ -23,5 +23,5 @@ npm install
 npm run build
 ```
 
-7. Click the "Go Live" button in the bottom right corner of Visual Studio Code to start the LiveServer and view the project in your web browser.
+7. Click the "Go Live" button in the bottom right corner of Visual Studio Code or type "Live Server: Open with Live Server" into the command bar to start the LiveServer and view the project in your web browser. If your browser doesn't open to it automatically, open your browser and navigate to "localhost:5500".
 8. If you make any changes to the project, the LiveServer will automatically refresh the page to reflect those changes.
