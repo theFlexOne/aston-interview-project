@@ -1,6 +1,7 @@
 [
   {
     "name": "Robot Vacuum",
+    "url": "#",
     "description": "A robot vacuum is a device that can autonomously clean your floors with minimal effort required from you. It is equipped with sensors and navigation technology to make sure it cleans every corner of your home with maximum efficiency.",
     "info": [
       "Autonomous cleaning",
@@ -9,10 +10,12 @@
       "Remote control via app",
       "Long lasting battery life",
       "Scheduled cleaning"
-    ]
+    ],
+    "id": "bf2c7ac6-7b2b"
   },
   {
     "name": "Smart Lock",
+    "url": "#",
     "description": "A smart lock is a device that can be used to secure your home or business. It is connected to your Wi-Fi network and can be controlled remotely via an app on your smartphone. You can also set up schedules and access codes to allow certain people access to your property.",
     "info": [
       "Remote control via app",
@@ -21,10 +24,12 @@
       "Secure your home or business",
       "Two-factor authentication",
       "Long lasting battery life"
-    ]
+    ],
+    "id": "7fc610c6-dacc"
   },
   {
     "name": "Smart Watch",
+    "url": "#",
     "description": "A smart watch is a device that can be worn on your wrist. It is connected to your smartphone and can be used to access notifications, track your fitness goals, and control other smart devices in your home. It also has features such as voice recognition and gesture control.",
     "info": [
       "Connected to smartphone",
@@ -34,10 +39,12 @@
       "Voice recognition and gesture control",
       "Long lasting battery life",
       "Weather alerts"
-    ]
+    ],
+    "id": "60c53ea6-3e47"
   },
   {
     "name": "Smart Thermostat",
+    "url": "#",
     "description": "A smart thermostat is a device that can be used to control the temperature in your home. It is connected to your Wi-Fi network and can be controlled remotely via an app on your smartphone. You can also set up schedules and access codes to allow certain people access to your property.",
     "info": [
       "Remote control via app",
@@ -46,10 +53,12 @@
       "Control temperature in your home",
       "Energy efficient",
       "Precise temperature control"
-    ]
+    ],
+    "id": "03c1bb81-83ec"
   },
   {
     "name": "Smart Light Bulb",
+    "url": "#",
     "description": "A smart light bulb is a device that can be used to control the lighting in your home. It is connected to your Wi-Fi network and can be controlled remotely via an app on your smartphone. You can also set up schedules and access codes to allow certain people access to your property.",
     "info": [
       "Remote control via app",
@@ -58,10 +67,12 @@
       "Control lighting in your home",
       "Dimmable lighting",
       "Long lasting battery life"
-    ]
+    ],
+    "id": "e215c799-6d67"
   },
   {
     "name": "Smart Speaker",
+    "url": "#",
     "description": "A smart speaker is a device that can be used to play music, set alarms, answer questions, and control other smart devices in your home. It is connected to your Wi-Fi network and can be controlled with voice commands.",
     "info": [
       "Connected to Wi-Fi network",
@@ -72,10 +83,12 @@
       "Control other smart devices",
       "Multi-room audio",
       "Smart home integration"
-    ]
+    ],
+    "id": "a028fc6a-4c0a"
   },
   {
     "name": "Wireless Headphones",
+    "url": "#",
     "description": "Wireless headphones are a device that can be used to listen to music, podcasts, or other audio without being connected to a device by a cable. They are connected to your device via Bluetooth and can be used to make and receive calls. They also come with features such as noise cancellation and voice control.",
     "info": [
       "Connected to device via Bluetooth",
@@ -85,6 +98,7 @@
       "Listen to music, podcasts, or other audio",
       "Long lasting battery life",
       "Wireless charging"
-    ]
+    ],
+    "id": "a96f76a7-736c"
   }
 ]
